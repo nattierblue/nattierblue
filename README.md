@@ -19,15 +19,14 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=90&fontColor=6FA0BF&text=welcome!&fontSize=50&fontAlignY=30&desc=This%20is%20YeseoJ's%20Github%20page👋&descSize=30&descAlignY=70)  
 ---  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnattierblue%2Fhit-counter&count_bg=%2300000000&title_bg=%236FA0BF&icon=moo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/nattierblue)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnattierblue%2Fhit-counter&count_bg=%2300000000&title_bg=%236FA0BF&icon=moo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
 <img src="https://user-images.githubusercontent.com/126084751/220688632-46c10e01-86cd-447a-837f-1898edc9a0f1.jpg"  width="500" height="333">
 --- 
 
 Contact📧
   ---
-<img src="https://img.shields.io/badge/seojy302@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/idhmhgug@cau.ac.kr-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white"/></a>  
-<br/>
+<a href="mailto:seojy302@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=seojy3020@gmail.com"/></a>  
+<a href="mailto:idhmhgug@cau.ac.kr"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white&link=idhmhgug@cau.ac.kr"/></a>  
 <br/>
 Tech Stack📚
   ---
@@ -45,7 +44,7 @@ Tech Stack📚
 ---
 
 
-[![Yeseoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattierblue&show_icons=true&theme=nord&bg_color=00000000&icon_color=ffd28c)](https://github.com/nattierblue/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattierblue&theme=nord&bg_color=00000000&icon_color=ffd28c)](https://github.com/nattierblue/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattierblue&show_icons=true&theme=nord&bg_color=00000000&icon_color=ffd28c)](https://github.com/anuraghazra/github-readme-stats) 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattierblue&theme=nord&bg_color=00000000&icon_color=ffd28c)](https://github.com/anuraghazra/github-readme-stats)-->
   
 </div>
