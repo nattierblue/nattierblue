@@ -43,8 +43,8 @@ Tech Stack📚
 
 ---
 
+<img src="https://raw.githubusercontent.com/nattierblue/github-stats-transparent/output/generated/overview.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/nattierblue/github-stats-transparent/output/generated/languages.svg" width="49.2%" />  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattierblue&show_icons=true&theme=nord&bg_color=00000000&icon_color=ffd28c)](https://github.com/anuraghazra/github-readme-stats) 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattierblue&theme=nord&bg_color=00000000&icon_color=ffd28c)](https://github.com/anuraghazra/github-readme-stats)-->
-  
+
 </div>
